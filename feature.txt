@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 this is in feature branch
+=======
+include<stdio.h>
+void main()
+{
+printf("yhis is feature")
+}<F2>
+
+>>>>>>> d7d520ad8a01d4943fbc3a020fc7fb6b10c8f0df
